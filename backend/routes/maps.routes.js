@@ -25,4 +25,4 @@ router.get('/get-suggestions',
 
 
 
-module.exports = router; 
+module.exports = router;

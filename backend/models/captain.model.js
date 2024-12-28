@@ -59,6 +59,14 @@ const captainSchema = new mongoose.Schema({
         }
     },
 
+    location: {
+        ltd: {
+            type: Number,
+        },
+        lng: {
+            type: Number,
+        }
+    }
 })
 
 
